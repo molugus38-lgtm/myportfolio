@@ -658,7 +658,7 @@ export default function Portfolio() {
           <div className="home-text">
             <h1 className="home-name">Srihitha</h1>
             <p className="home-role">
-              I craft clean, responsive web experiences — turning ideas into interfaces that feel natural and work beautifully.
+              I craft clean responsive web experiences = turning ideas into interfaces that feel natural and work beautifully.
             </p>
             <div className="home-cta">
               <button className="btn-primary" onClick={() => scrollTo("work")}>View Work</button>
