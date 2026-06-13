@@ -1,5 +1,7 @@
 # Srihitha Portfolio
 
+Live link:https://myportfolio-pi-blush.vercel.app/
+
 A minimalist dark-themed personal portfolio built with React.
 
 ## Getting Started
