@@ -676,7 +676,7 @@ export default function Portfolio() {
 
   <div className="photo-circle">
   <img
-    src={process.env.PUBLIC_URL + '/profile.jpg'}
+    src="/profile.jpg"
     alt="Srihitha"
     className="profile-image"
   />
